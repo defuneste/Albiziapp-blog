@@ -14,8 +14,20 @@
   </url>
   
   <url>
-    <loc>/Albiziapp-blog/2019/06/11/un-peu-de-botanique-un-peu-d-osm-tout-en-testant-une-application-web-c-est-possible-%C3%A0-saint-etienne/</loc>
+    <loc>/Albiziapp-blog/categories/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/2019/06/11/game-of-trees-%C3%A0-saint-%C3%A9tienne/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/categories/osm/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -31,6 +43,11 @@
   </url>
   
   <url>
+    <loc>/Albiziapp-blog/2019/06/11/qu-est-ce-qu-un-relev%C3%A9/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/Albiziapp-blog/tags/saint-etienne/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -43,13 +60,14 @@
   </url>
   
   <url>
-    <loc>/Albiziapp-blog/tags/carto/</loc>
+    <loc>/Albiziapp-blog/categories/carto/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/Albiziapp-blog/categories/</loc>
+    <loc>/Albiziapp-blog/tags/carto/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

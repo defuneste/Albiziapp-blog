@@ -4,8 +4,8 @@ subtitle: Un peu de botanique, un peu d’OSM tout en testant une application we
   possible à Saint-Etienne!
 author: Olivier
 date: '2019-06-11'
-slug: un-peu-de-botanique-un-peu-d-osm-tout-en-testant-une-application-web-c-est-possible-à-saint-etienne
-categories: []
+slug: Game of Trees à Saint-Étienne
+categories: ["carto","OSM"]
 tags:
   - carto
   - OSM

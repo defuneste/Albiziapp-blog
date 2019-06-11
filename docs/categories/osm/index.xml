@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Une présentation d&#39;Albiziapp</title>
-    <link>/Albiziapp-blog/</link>
-    <description>Recent content on Une présentation d&#39;Albiziapp</description>
+    <title>OSM on Une présentation d&#39;Albiziapp</title>
+    <link>/Albiziapp-blog/categories/osm/</link>
+    <description>Recent content in OSM on Une présentation d&#39;Albiziapp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2019 09:00:00 -0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/Albiziapp-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Albiziapp-blog/categories/osm/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>A propos</title>
-      <link>/Albiziapp-blog/about/</link>
-      <pubDate>Tue, 11 Jun 2019 09:00:00 -0900</pubDate>
-      
-      <guid>/Albiziapp-blog/about/</guid>
-      <description>Ce blog a pour but de présenter Albiziapp, un prototype d&amp;rsquo;application web pour les inventaires collaboratifs developpé dans le cadre de l&amp;rsquo;ANR ReVeRIES. Le developpeur principal de l&amp;rsquo;application est Pierre-Yves Gicquel et elle utilise et souhaite contribuer à l&amp;rsquo;ecosysteme Open Street Map.
-Ce site est repris du package blogdown de R. Le theme provient d&amp;rsquo; @jrutheiser/hugo-lithium-theme et modifié par Yihui Xie.</description>
-    </item>
     
     <item>
       <title>Game of Trees à Saint-Étienne</title>
