@@ -26,8 +26,7 @@ Puis dites nous ce que vous en avez pensé et ce qu’il faudrait améliorer.
 
 ## De quoi j’ai besoin ?
 
-- Un smartphone avec 3G/GPS et d’une connexion internet pour vous connecter à l’application :
-elle est ici : <https://albiziapp.reveries-project.fr/#albiziapp>
+- Un smartphone avec 3G/GPS et d’une connexion internet pour vous connecter à l’application : [ici](https://albiziapp.reveries-project.fr/#albiziapp)
 
 (vous pouvez tester chez vous si cela marche avant de venir)
 
