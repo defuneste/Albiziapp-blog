@@ -31,7 +31,7 @@ elle est ici : <https://albiziapp.reveries-project.fr/#albiziapp>
 
 (vous pouvez tester chez vous si cela marche avant de venir)
 
-- un compte Open Street Map : <https://www.openstreetmap.org/user/new>
+- un compte Open Street Map (OSM) deja créé : <https://www.openstreetmap.org/user/new>
     
 Si je fais des erreurs est ce que cela va dans OSM ? 
 
@@ -41,7 +41,7 @@ Si je fais des erreurs est ce que cela va dans OSM ?
 
 ## Vous enregistrez quoi ? 
 
-En dehors des réponses aux questionnaires qui va nous aider à en savoir plus sur votre profil l’application va enregistrer vos déplacements (et quoi d’autres?)
+En dehors des réponses aux questionnaires (anonymisés) qui va nous aider à en savoir plus sur votre profil l’application va enregistrer vos déplacements et bien sûr vos relevés.
 
 ## Mais je n’y connais rien en botanique !
 
