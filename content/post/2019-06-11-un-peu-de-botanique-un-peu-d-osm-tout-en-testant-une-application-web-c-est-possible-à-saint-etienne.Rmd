@@ -14,11 +14,11 @@ tags:
 
 # Un peu de botanique, un peu d’OSM tout en testant une application web ? C’est possible à Saint-Etienne!
 
-Dans le cadre du projet ReVeRIES nous testons une application mobile (Albiziapp) de cartographie des arbres et nous avons besoin de volontaires pour l’expérimenter avec nous !
+Dans le cadre du projet [**ReVeRIES**](https://reveries-project.fr/) nous testons une application mobile (Albiziapp) de cartographie des arbres et nous avons besoin de volontaires pour l’expérimenter avec nous !
 
 ## Où ? Quand ? Et cela prend combien de temps ?
 
-Autour de la cité du Design, le **29 juin 2019 à 14h00**, rendez vous devant le Mixeur (là une petite carte), environ deux heures puis le temps d’un pot pour se désaltérer !
+Autour de la cité du Design, le **29 juin 2019 à 14h00**, rendez vous devant le [Mixeur](https://www.openstreetmap.org/relation/3573563)[^1], environ deux heures puis le temps d’un pot pour se désaltérer !
 
 ## En quoi cela consiste ?
 
@@ -57,3 +57,6 @@ Confirmez le nous ici : [framadate](https://framadate.org/1lrFfB86J4alBlNA) ou p
 
 j’ai pas eu le temps de prévenir, je viens quand même ?
 Oui bien sûr, on s’arrangera !
+
+
+[^1]: 5 rue Javelin Pagnon, 42000 Saint-Étienne
