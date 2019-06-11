@@ -1,6 +1,9 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
-title: About
+date: "2019-06-11T9:00:00-09:00"
+title: À propos
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+Ce blog a pour but de présenter Albiziapp, un prototype d'application web developpée dans le cadre de l'ANR [**ReVeRIES**](http://reveries-project.fr/). Le developpeur principal de l'application est [Pierre-Yves Gicquel](https://github.com/gick) et elle utilise et souhaite contribuer à l'ecosysteme [Open Street Map](https://wiki.openstreetmap.org/wiki/FR:About).  
+
+
+Ce site est repris du package [**blogdown**](https://github.com/rstudio/blogdown) de R. Le theme provient d' [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) et modifié par [Yihui Xie](https://github.com/yihui/hugo-lithium).

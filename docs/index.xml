@@ -6,10 +6,20 @@
     <description>Recent content on Une présentation d&#39;Albiziapp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 09:00:00 -0900</lastBuildDate>
     
 	<atom:link href="/Albiziapp-blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>À propos</title>
+      <link>/Albiziapp-blog/about/</link>
+      <pubDate>Tue, 11 Jun 2019 09:00:00 -0900</pubDate>
+      
+      <guid>/Albiziapp-blog/about/</guid>
+      <description>Ce blog a pour but de présenter Albiziapp, un prototype d&amp;rsquo;application web developpée dans le cadre de l&amp;rsquo;ANR ReVeRIES. Le developpeur principal de l&amp;rsquo;application est Pierre-Yves Gicquel et elle utilise et souhaite contribuer à l&amp;rsquo;ecosysteme Open Street Map.
+Ce site est repris du package blogdown de R. Le theme provient d&amp;rsquo; @jrutheiser/hugo-lithium-theme et modifié par Yihui Xie.</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
@@ -19,15 +29,6 @@
       <guid>/Albiziapp-blog/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/Albiziapp-blog/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/Albiziapp-blog/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>

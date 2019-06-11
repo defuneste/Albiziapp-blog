@@ -15,7 +15,7 @@ enableEmoji = true
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "À propos"
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
