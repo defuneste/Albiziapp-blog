@@ -15,7 +15,7 @@ enableEmoji = true
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "À propos"
+    name = "A propos"
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
@@ -44,5 +44,5 @@ enableEmoji = true
     url = "logo_projetReVeRIESP_small-1.png"
     width = 50
     height = 50
-    alt = "unbonlogo"
+    alt = "accueil"
 

@@ -1,6 +1,6 @@
 ---
 date: "2019-06-11T9:00:00-09:00"
-title: À propos
+title: A propos
 ---
 
 Ce blog a pour but de présenter Albiziapp, un prototype d'application web developpée dans le cadre de l'ANR [**ReVeRIES**](http://reveries-project.fr/). Le developpeur principal de l'application est [Pierre-Yves Gicquel](https://github.com/gick) et elle utilise et souhaite contribuer à l'ecosysteme [Open Street Map](https://wiki.openstreetmap.org/wiki/FR:About).  

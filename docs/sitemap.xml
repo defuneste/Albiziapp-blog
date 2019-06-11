@@ -3,14 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/Albiziapp-blog/</loc>
+    <loc>/Albiziapp-blog/about/</loc>
     <lastmod>2019-06-11T09:00:00-09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/Albiziapp-blog/about/</loc>
+    <loc>/Albiziapp-blog/</loc>
     <lastmod>2019-06-11T09:00:00-09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
