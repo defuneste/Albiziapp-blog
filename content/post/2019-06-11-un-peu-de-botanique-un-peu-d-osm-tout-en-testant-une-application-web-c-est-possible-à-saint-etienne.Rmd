@@ -1,5 +1,6 @@
 ---
-title: Un peu de botanique, un peu d’OSM tout en testant une application web ? C’est
+title: "Game of Trees à Saint-Étienne"
+subtitle: Un peu de botanique, un peu d’OSM tout en testant une application web ? C’est
   possible à Saint-Etienne!
 author: Olivier
 date: '2019-06-11'
@@ -11,8 +12,9 @@ tags:
   - Saint-Etienne
 ---
 
+# Un peu de botanique, un peu d’OSM tout en testant une application web ? C’est possible à Saint-Etienne!
 
-Dans le cadre du projet ReVeRIES nous testons une application embarquée (Albiziapp) de cartographie des arbres et nous avons besoin de volontaires pour l’expérimenter avec nous !
+Dans le cadre du projet ReVeRIES nous testons une application mobile (Albiziapp) de cartographie des arbres et nous avons besoin de volontaires pour l’expérimenter avec nous !
 
 ## Où ? Quand ? Et cela prend combien de temps ?
 
@@ -26,11 +28,14 @@ Puis dites nous ce que vous en avez pensé et ce qu’il faudrait améliorer.
 
 ## De quoi j’ai besoin ?
 
-- Un smartphone avec 3G/GPS et d’une connexion internet pour vous connecter à l’application : [ici](https://albiziapp.reveries-project.fr/#albiziapp)
+- un compte Open Street Map (OSM) deja créé (<https://www.openstreetmap.org/user/new>).  Il vous permettra de d'accéder à l'application. 
+
+
+- Un smartphone avec 3G/GPS et d’une connexion internet pour vous connecter à l’application (elle est 100% en ligne et nécessite aucun téléchargement ) : [ici](https://albiziapp.reveries-project.fr/#albiziapp)
 
 (vous pouvez tester chez vous si cela marche avant de venir)
 
-- un compte Open Street Map (OSM) deja créé : <https://www.openstreetmap.org/user/new>
+
     
 Si je fais des erreurs est ce que cela va dans OSM ? 
 
