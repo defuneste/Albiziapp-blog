@@ -17,7 +17,7 @@
       <pubDate>Tue, 11 Jun 2019 09:00:00 -0900</pubDate>
       
       <guid>/Albiziapp-blog/about/</guid>
-      <description>Ce blog a pour but de présenter Albiziapp, un prototype d&amp;rsquo;application web developpée dans le cadre de l&amp;rsquo;ANR ReVeRIES. Le developpeur principal de l&amp;rsquo;application est Pierre-Yves Gicquel et elle utilise et souhaite contribuer à l&amp;rsquo;ecosysteme Open Street Map.
+      <description>Ce blog a pour but de présenter Albiziapp, un prototype d&amp;rsquo;application web pour les inventaires collaboratifs developpé dans le cadre de l&amp;rsquo;ANR ReVeRIES. Le developpeur principal de l&amp;rsquo;application est Pierre-Yves Gicquel et elle utilise et souhaite contribuer à l&amp;rsquo;ecosysteme Open Street Map.
 Ce site est repris du package blogdown de R. Le theme provient d&amp;rsquo; @jrutheiser/hugo-lithium-theme et modifié par Yihui Xie.</description>
     </item>
     
@@ -28,7 +28,7 @@ Ce site est repris du package blogdown de R. Le theme provient d&amp;rsquo; @jru
       
       <guid>/Albiziapp-blog/2019/06/11/un-peu-de-botanique-un-peu-d-osm-tout-en-testant-une-application-web-c-est-possible-%C3%A0-saint-etienne/</guid>
       <description>Dans le cadre du projet ReVeRIES nous testons une application embarquée (Albiziapp) de cartographie des arbres et nous avons besoin de volontaires pour l’expérimenter avec nous !
-Où ? Quand ? Et cela prend combien de temps ? Autour de la cité du Design, le 29 juin 2019 à 14h00, rendez vous au point d’info (là une petite carte), environ deux heures puis le temps d’un pot pour se désaltérer !</description>
+Où ? Quand ? Et cela prend combien de temps ? Autour de la cité du Design, le 29 juin 2019 à 14h00, rendez vous devant le Mixeur (là une petite carte), environ deux heures puis le temps d’un pot pour se désaltérer !</description>
     </item>
     
   </channel>
