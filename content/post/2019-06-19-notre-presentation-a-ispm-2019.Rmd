@@ -1,0 +1,20 @@
+---
+title: Notre présentation à ISPM 2019
+author: olivier
+date: '2019-06-19'
+slug: notre-presentation-a-ispm-2019
+categories:
+  - ISPM
+  - carto
+tags:
+  - carto
+  - OSM
+  - ISPM
+---
+
+
+# INternational Society of Participatory Mapping 2019, Espoo, Finland 16-19 juin
+
+Nous étions (Olivier Leroy, Thierry Joliveau) à la conférence [ISPM](http://ispm-conference.com/) : "let the people map" de 2019 !
+
+Voici notre présentation. 

@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Une présentation d&#39;Albiziapp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/Albiziapp-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ISPM</title>
+      <link>/Albiziapp-blog/categories/ispm/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/Albiziapp-blog/categories/ispm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carto</title>
+      <link>/Albiziapp-blog/categories/carto/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/Albiziapp-blog/categories/carto/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OSM</title>
@@ -17,15 +35,6 @@
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/Albiziapp-blog/categories/osm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>carto</title>
-      <link>/Albiziapp-blog/categories/carto/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/Albiziapp-blog/categories/carto/</guid>
       <description></description>
     </item>
     

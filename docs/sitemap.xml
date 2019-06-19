@@ -3,20 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/Albiziapp-blog/about/</loc>
-    <lastmod>2019-06-11T09:00:00-09:00</lastmod>
+    <loc>/Albiziapp-blog/categories/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/categories/ispm/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/tags/ispm/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/2019/06/19/notre-presentation-a-ispm-2019/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/tags/osm/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/post/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/tags/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/Albiziapp-blog/</loc>
-    <lastmod>2019-06-11T09:00:00-09:00</lastmod>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/Albiziapp-blog/categories/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <loc>/Albiziapp-blog/categories/carto/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/tags/carto/</loc>
+    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/Albiziapp-blog/about/</loc>
+    <lastmod>2019-06-11T09:00:00-09:00</lastmod>
   </url>
   
   <url>
@@ -25,19 +72,7 @@
   </url>
   
   <url>
-    <loc>/Albiziapp-blog/tags/osm/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/Albiziapp-blog/categories/osm/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/Albiziapp-blog/post/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -49,24 +84,6 @@
   
   <url>
     <loc>/Albiziapp-blog/tags/saint-etienne/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/Albiziapp-blog/tags/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/Albiziapp-blog/tags/carto/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/Albiziapp-blog/categories/carto/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
