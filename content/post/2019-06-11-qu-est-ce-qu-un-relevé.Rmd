@@ -5,22 +5,28 @@ date: '2019-06-11'
 slug: qu-est-ce-qu-un-relevé
 categories:
   - OSM
+  - Inventaire
 tags:
   - OSM
+  - Inventaire
 ---
 
 > *Lorsque j’effectue une sortie botanique, avec l’intention de noter mes observations, plusieurs attitudes sont possibles : je note et je photographie les plantes que je trouve remarquables, j’essaie de faire un inventaire de toutes les plantes que je rencontre sur mon parcours, j’établis un relevé sur une parcelle homogène afin de caractériser cette parcelle par son cortège floristique, je participe à un projet comme Vigie-Flore ou les Sauvages de ma rue…*
 >  `r tufte::quote_footer('--- Daniel Mathieu, Tela Botanica[^1]')`
 
-La réponse à cette question n'a rien de simple d'autant qu'il n'est pas toujours simple de distinguer, l'observation, l'inventaire ou le relevé. Heureusement comme nous utilisons Open Street Map (OSM) il nous est ici possible d'utiliser les standards et normes que la communauté se donne. 
+Cette citation montre la diversité de pratiques. Elle introduit des distingtions intéressantes entre, l'observation, l'inventaire ou le relevé. Le relevé y est présenté comme permettant de caractériser une zone (définit comme homogène). C'est, il nous semble, des points importants : un relevé caractérise quelque chose de relativement permanent associé à une localisation. Si il est topographique il prend l'altitude en un point donné et si c'est un relevé de végetation il caractérise celle-ci et sa délimitation en zone permet d'en faire un objet topographique (différent du point). 
+
+
+L'observation différe du relevé car ce qui est observé n'est pas nécessairement permament. Si je pars observer des oiseaux et que je note où j'ai pu observer un geai ce n'est pas le geai que je cartographie mais ma rencontre avec ce dernier.  
+
 
 Albiziapp vise à contribuer à un inventaire des arbres urbains et champêtres. Ils sont également parfois nommés "isolés" ou "épars" et sont représentés dans OSM comme des points (node) avec le couple [natural=tree](https://wiki.openstreetmap.org/wiki/FR:Tag:natural%3Dtree). Par convention nous avons donc un relevé pour chaque arbre isolé. 
 
-## Tous les arbres sont-ils des relevés ?
+## Tous les arbres doivent-ils être relevés ?
 
-A venir
+On peut très bien tous les mesurer et les décrire mais en pratique on va distinguer les arbres isolés de ceux formant une forêt ou une haie. Cette distingtion s'appuie sur le fait qu'un arbre dans une haie, une forêt ou bien isolé n'a pas le meme sens. 
 
-## les differents types de relevés dans Albiziapp : 
+## Les differents types de relevés dans Albiziapp : 
 
 A venir
 
