@@ -6,10 +6,20 @@
     <description>Recent content in Inventaire on Une présentation d&#39;Albiziapp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/Albiziapp-blog/categories/inventaire/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Les relevés dans Albiziapp</title>
+      <link>/Albiziapp-blog/2019/06/25/les-relev%C3%A9s-dans-albiziapp/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/Albiziapp-blog/2019/06/25/les-relev%C3%A9s-dans-albiziapp/</guid>
+      <description> Faire un relevé : La carte : Une fois authentifié on peut accéder à la carte (1). Notre localisation est representée par une épingle bleue. Il suffit d’appuyer un peu sur l’ecran pour voir apparaitre le menu de création de relevé (2). On peut ensuite abandonner (“Cancel”) ou continuer al procédure (“OK”).
+ Figure 1: Carte de visualisation d’Albiziapp   Figure 2: Avertissement de réalisation de relevé    Les differents types de relevés :  </description>
+    </item>
     
     <item>
       <title>Qu&#39;est-ce qu&#39;un relevé ?</title>

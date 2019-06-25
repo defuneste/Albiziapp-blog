@@ -26,8 +26,7 @@ Albiziapp vise à contribuer à un inventaire des arbres urbains et champêtres.
 
 On peut très bien tous les mesurer et les décrire mais en pratique on va distinguer les arbres isolés de ceux formant une forêt ou une haie. Cette distingtion s'appuie sur le fait qu'un arbre dans une haie, une forêt ou bien isolé n'a pas le meme sens. 
 
-## Les differents types de relevés dans Albiziapp : 
 
-A venir
+
 
 [^1]: «Faire des relevés botaniques» Mise en ligne dimanche 8 avril 2012, consultation 13/04/2018
