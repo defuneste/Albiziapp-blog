@@ -15,7 +15,7 @@ tags:
 
 ### La carte : 
 
-Une fois authentifié on peut accéder à la carte (\@ref(fig:Carte)). Notre localisation est representée par une épingle bleue. Il suffit d'appuyer un peu sur l'ecran pour voir apparaitre le menu de création de relevé (\@ref(fig:Confirm)). On peut ensuite abandonner ("Cancel") ou continuer al procédure ("OK").
+Une fois authentifié on peut accéder à la carte (\@ref(fig:Carte)). Notre localisation est representée par une épingle bleue. Il suffit d'appuyer un peu sur l'ecran pour voir apparaitre le menu de création de relevé (\@ref(fig:Confirm)). On peut ensuite abandonner ("Cancel") ou continuer la procédure ("OK").
 
 <!-- il faut avancer réferencer les caption pour les images --> 
 <!-- puis utilsier \@ref(fig:foo) pour en faire le lien --> 
@@ -34,11 +34,33 @@ knitr::include_graphics("images/creation_releve.PNG")
 
 ### Le menu du relevé : 
 
+Après avoir sélectionner "OK" on arrive sur le menu du relevé. Il est ici représenté en deux parties :  \@ref(fig:releve) et \@ref(fig:releve2)
+
+(ref:releve) Ecran de relevé partie A
+
+
+```{r, releve, echo=FALSE, fig.align = 'center', out.width = '70%', fig.cap = '(ref:releve)' }
+knitr::include_graphics("images/ecran_releve.jpg")
+```
+
+Il est ensuite possible d'indiquer le nom de l'espèce (en latin), son genre et son nom vernaculaire (en francais). Si vous avec un doute signaler le avec le menu "Confiance". Vous pouvez ensuite prendre une photo pour l'ajouter. Enfin il est possible d'enregistrer se relevé ou encore de l'annuler.
+
+(ref:releve2) Ecran de relevé partie B
+
+```{r, releve2, echo=FALSE, fig.align = 'center', out.width = '70%', fig.cap = '(ref:releve2)' }
+knitr::include_graphics("images/ecran_part2.PNG")
+```
+
+
+Votre relevé est crée il apparait alors comme un rond rouge ! Bravo !
+
+
 # Les differents types de relevés  : 
 
 
 
 ```{r, echo=FALSE}
-knitr::include_graphics("images/rond_rouge.png")
+knitr::include_graphics(c("images/rond_rouge.png","images/rond_bleu.png"))
 ```
+
 
