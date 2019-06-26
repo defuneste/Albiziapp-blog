@@ -43,7 +43,7 @@ Après avoir sélectionner "OK" on arrive sur le menu du relevé. Il est ici rep
 knitr::include_graphics("images/ecran_releve.jpg")
 ```
 
-Il est ensuite possible d'indiquer le nom de l'espèce (en latin), son genre et son nom vernaculaire (en francais). Si vous avec un doute signaler le avec le menu "Confiance". Vous pouvez ensuite prendre une photo pour l'ajouter. Enfin il est possible d'enregistrer se relevé ou encore de l'annuler.
+Il est ensuite possible d'indiquer le nom de l'espèce (en latin), son genre et son nom vernaculaire (en francais). Si vous avec un doute signalez le avec le menu "Confiance". Vous pouvez ensuite prendre une photo pour l'ajouter. Enfin il est possible d'enregistrer se relevé ou encore de l'annuler.
 
 (ref:releve2) Ecran de relevé partie B
 
