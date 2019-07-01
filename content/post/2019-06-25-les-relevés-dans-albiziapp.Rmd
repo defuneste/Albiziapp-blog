@@ -58,9 +58,24 @@ Votre relevé est crée il apparait alors comme un rond rouge ! Bravo !
 # Les differents types de relevés  : 
 
 
+```{r, rond_rouge, echo=FALSE, fig.align = 'center', out.width = '10%'}
+knitr::include_graphics("images/rond_rouge.png")
+```
+
+Votre relevé apparait comme un rond de contour rouge. Il est possible de le modifier ou encore de la supprimer (\@ref(fig:modifsup)) (du moins tant que personne d'autre que vous ne l'a changé) 
+
+(ref:modifsup) Modification ou suppresion d'un de vos relevés
+
+```{r, modifsup, echo=FALSE, fig.align = 'center', out.width = '70%', fig.cap = '(ref:modifsup)' }
+knitr::include_graphics("images/modif_sup.PNG")
+```
+
+
+D'autres cercles apparaissent proches de vos relevés :
+
 
 ```{r, echo=FALSE}
-knitr::include_graphics(c("images/rond_rouge.png","images/rond_bleu.png"))
+knitr::include_graphics(c("images/rond_bleu.png","images/rond_vert.png"))
 ```
 
 
