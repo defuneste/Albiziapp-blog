@@ -15,7 +15,7 @@ tags:
 
 ### La carte : 
 
-Une fois authentifié on peut accéder à la carte (\@ref(fig:Carte)). Notre localisation est representée par une épingle bleue. Il suffit d'appuyer un peu sur l'ecran pour voir apparaitre le menu de création de relevé (\@ref(fig:Confirm)). On peut ensuite abandonner ("Cancel") ou continuer la procédure ("OK").
+Une fois authentifié on peut accéder à la carte (\@ref(fig:Carte)). Notre localisation est représentée par une épingle bleue. Il suffit d'appuyer un peu sur l’écran pour voir apparaître le menu de création de relevé (\@ref(fig:Confirm)). On peut ensuite abandonner ("Cancel") ou continuer la procédure ("OK").
 
 <!-- il faut avancer réferencer les caption pour les images --> 
 <!-- puis utilsier \@ref(fig:foo) pour en faire le lien --> 
@@ -43,7 +43,7 @@ Après avoir sélectionner "OK" on arrive sur le menu du relevé. Il est ici rep
 knitr::include_graphics("images/ecran_releve.jpg")
 ```
 
-Il est ensuite possible d'indiquer le nom de l'espèce (en latin), son genre et son nom vernaculaire (en francais). Si vous avec un doute signalez le avec le menu "Confiance". Vous pouvez ensuite prendre une photo pour l'ajouter. Enfin il est possible d'enregistrer se relevé ou encore de l'annuler.
+Il est ensuite possible d'indiquer le nom de l'espèce (en latin), son genre et son nom vernaculaire (en français). Si vous avec un doute signalez le avec le menu "Confiance". Vous pouvez ensuite prendre une photo pour l'ajouter. Enfin il est possible d'enregistrer se relevé ou encore de l'annuler.
 
 (ref:releve2) Ecran de relevé partie B
 
@@ -52,7 +52,7 @@ knitr::include_graphics("images/ecran_part2.PNG")
 ```
 
 
-Votre relevé est crée il apparait alors comme un rond rouge ! Bravo !
+Votre relevé est crée il apparaît alors comme un rond rouge ! Bravo !
 
 
 # Les differents types de relevés  : 
@@ -62,9 +62,9 @@ Votre relevé est crée il apparait alors comme un rond rouge ! Bravo !
 knitr::include_graphics("images/rond_rouge.png")
 ```
 
-Votre relevé apparait comme un rond de contour rouge. Il est possible de le modifier ou encore de la supprimer (\@ref(fig:modifsup)) (du moins tant que personne d'autre que vous ne l'a changé) 
+Votre relevé apparaît comme un rond de contour rouge. Il est possible de le modifier ou encore de la supprimer (\@ref(fig:modifsup)) (du moins tant que personne d'autre que vous ne l'a changé) 
 
-(ref:modifsup) Modification ou suppresion d'un de vos relevés
+(ref:modifsup) Modification ou suppression d'un de vos relevés
 
 ```{r, modifsup, echo=FALSE, fig.align = 'center', out.width = '70%', fig.cap = '(ref:modifsup)' }
 knitr::include_graphics("images/modif_sup.PNG")
