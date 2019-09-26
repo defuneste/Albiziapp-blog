@@ -14,7 +14,7 @@ tags:
 
 # Un peu de botanique, un peu d’OSM tout en testant une application web ? C’est possible à Saint-Etienne!
 
-Dans le cadre du projet [**ReVeRIES**](https://reveries-project.fr/) nous testons une application mobile (Albiziapp) de cartographie des arbres et nous avons besoin de volontaires pour l’expérimenter avec nous !
+Dans le cadre du projet [**ReVeRIES**](http://reveries-project.fr/) nous testons une application mobile (Albiziapp) de cartographie des arbres et nous avons besoin de volontaires pour l’expérimenter avec nous !
 
 ## Où ? Quand ? Et cela prend combien de temps ?
 
